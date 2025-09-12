@@ -5,6 +5,8 @@ Experience the principles of [Active Noise Control](https://en.wikipedia.org/wik
 Check out my blog post on this experiment, and try it out yourself: find the "dead zone" based on your speaker configuration.
 
 Run the code with `uv run main.py` to find your audio devices. Add the `-d` flag when you're ready to specify an output device, e.g., `uv run main.py -d 1`. To hear the audio without destructive interference, use the `--normal` flag.
+
+To see it working on my laptop, check out the [YouTube video](https://youtu.be/bKjprY37uNE) I uploaded, as well as [my blog explanation](https://reneelearnsthings.blogspot.com/2025/09/destructive-interference-python.html) (there's not much to it).
 ## Dependencies
 ### Code
 Code dependencies are managed with uv.
