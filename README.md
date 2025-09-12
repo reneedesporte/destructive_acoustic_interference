@@ -1,0 +1,2 @@
+# destructive_acoustic_interference
+An experiment demonstrating destructive acoustic interference
