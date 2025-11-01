@@ -6,7 +6,7 @@ Check out my blog post on this experiment, and try it out yourself: find the "de
 
 Run the code with `uv run main.py` to find your audio devices. Add the `-d` flag when you're ready to specify an output device, e.g., `uv run main.py -d 1`. To hear the audio without destructive interference, use the `--normal` flag.
 
-To see it working on my laptop, check out the [YouTube video](https://youtu.be/bKjprY37uNE) I uploaded, as well as [my blog explanation](https://reneelearnsthings.blogspot.com/2025/09/destructive-interference-python.html) (there's not much to it).
+To see it working on my laptop, check out the [YouTube video](https://youtu.be/bKjprY37uNE) I uploaded, as well as [my blog explanation](https://reneedesporte.com/2025/09/11/destructive-interference-a-python-demonstration/) (there's not much to it).
 ## Dependencies
 ### Code
 Code dependencies are managed with uv.
